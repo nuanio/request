@@ -47,7 +47,7 @@
     "safe-buffer": "^5.1.1",
     "stringstream": "~0.0.5",
     "tough-cookie": "~2.3.3",
-    "tunnel-agent": "^0.6.0",
+    "tunnel-agent": "https://github.com/nuanio/tunnel-agent.git",
     "uuid": "^3.1.0"
   },
   "scripts": {
